@@ -1,2 +1,3 @@
 # ruby-study
-rubyの勉強
+Rubyの勉強
+お試しです。
